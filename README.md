@@ -15,6 +15,10 @@ or online cliips of shows and TV series.
 ## Arabic XBMC Addons
 The following is a listing of the Arabic XBMC addons available from this repository:
 
+### RadioMA (Free service)
+Listen to the Moroccan radio stations online.
+[Read more...](https://github.com/apolikamixitos/xbmc.plugin.audio.radioma)
+
 ### ATN Network (Paid service)
 Watch live Arabic TV by logging in with your [ATN Network](http://www.atnnetwork.com) subscription login.
 [Read more...](https://github.com/hadynz/repository.arabic.xbmc-addons/tree/master/plugin.video.atnnetwork)
